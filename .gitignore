@@ -1,0 +1,6 @@
+# Ignorar backups
+backups/
+
+# Ignorar archivos temporales
+*.tmp
+*.log
